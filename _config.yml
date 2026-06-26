@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Wanting Ning (宁婉廷)"
 description              : # "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "wantingning.github.io"
+repository               : "WantingNing/wantingning.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -136,7 +136,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Indiana/Indianapolis # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
