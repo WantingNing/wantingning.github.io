@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year Ph.D. student in Computer Science at Indiana University Indianapolis. My research focuses on NLP and LLM evaluation, especially figurative language understanding, long-context reasoning, human-centered NLP, and model interpretability.
+I am a second-year Ph.D. student in Computer Science at Indiana University Indianapolis. My research focuses on NLP and LLM evaluation, especially **figurative language understanding, long-context reasoning, human-centered NLP, and model interpretability**.
 
 I study how large language models process nuanced human communication, including metaphor, implicit meaning, discourse-level context, and counseling-style dialogue. More broadly, I am interested in building reliable evaluation frameworks for understanding model behavior in complex and sensitive language settings.
 
