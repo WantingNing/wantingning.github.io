@@ -17,11 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year Ph.D. student in Computer Science at Indiana University Indianapolis. My research focuses on NLP and large language models, especially LLM evaluation, human-centered NLP, figurative language understanding, long-context reasoning, and interpretability. I am interested in how LLMs process nuanced human communication, including metaphor, implicit meaning, discourse-level context, and counseling-style dialogue.
+I am a second-year Ph.D. student in Computer Science at Indiana University Indianapolis. My research focuses on NLP and LLM evaluation, especially figurative language understanding, long-context reasoning, human-centered NLP, and model interpretability.
 
-I also work on mental health-related NLP and LLM applications, with an emphasis on building reliable evaluation frameworks, analyzing model failures, and improving the interpretability of language models in sensitive human-centered settings.
+I study how large language models process nuanced human communication, including metaphor, implicit meaning, discourse-level context, and counseling-style dialogue. More broadly, I am interested in building reliable evaluation frameworks for understanding model behavior in complex and sensitive language settings.
 
-Before starting my Ph.D., my research focused on biomedical NLP and information extraction, including event temporal relation extraction, biomedical causal relation extraction, and document-level information extraction. This prior work shaped my broader interest in evaluating language models' reasoning abilities in long-context, domain-specific, and sensitive health-related scenarios.
+**Research interests:** LLM Evaluation · Human-Centered NLP · Figurative Language Understanding · Long-Context Reasoning · Model Interpretability
+
 
 <!--
 # 🔥 News
@@ -50,11 +51,22 @@ Example of the disabled template:
 </div>
 -->
 
-Most of my publications to date come from my master's research at Dalian University of Technology, where I worked on biomedical NLP and information extraction, including event temporal relation extraction, biomedical causal relation extraction, biomedical event detection, and document-level event argument extraction.
+My previous publications focus on biomedical NLP and information extraction, including event temporal relation extraction, biomedical causal relation extraction, biomedical event detection, and document-level event extraction.
 
-My current Ph.D. research focuses on LLM evaluation, human-centered NLP, figurative language understanding, long-context reasoning, interpretability, and mental health-related NLP/LLM applications. My previous work provides a foundation for my broader interest in domain-specific reasoning, long-context language understanding, and reliable NLP systems for sensitive health-related applications.
+My current Ph.D. research extends this background toward LLM evaluation and human-centered NLP, with a focus on figurative language understanding, discourse-level reasoning, counseling-style dialogue, and interpretability.
 
 For a complete and up-to-date list, please see my [Google Scholar](https://scholar.google.com/citations?hl=en&tzom=240&user=3jYEgtAAAAAJ).
+
+## Current Research
+
+* **LLM Metaphor Understanding and Discourse Evaluation**
+  Studying how metaphor affects LLM judgments of discourse coherence and reveals model limitations in nuanced language understanding.
+
+* **Metaphor in Counseling Conversations**
+  Analyzing metaphor use in counseling-style dialogue to understand how language models handle emotionally rich and implicit communication.
+
+* **Metaphor-Based LLM Interpretability**
+  Exploring metaphor as a lens for studying how language models represent abstract meaning and perform figurative reasoning.
 
 ## Biomedical NLP and Information Extraction
 
@@ -67,11 +79,6 @@ For a complete and up-to-date list, please see my [Google Scholar](https://schol
   Jie Zhao, **Wanting Ning**, Yuxiao Fei, Yubo Feng, Lishuang Li.  
   *Findings of the Association for Computational Linguistics: EMNLP 2025*, 8080--8091.  
   [[Paper](https://aclanthology.org/2025.findings-emnlp.428/)] [[PDF](https://aclanthology.org/2025.findings-emnlp.428.pdf)] [[DOI](https://doi.org/10.18653/v1/2025.findings-emnlp.428)]
-
-- **[Rule-Guided Extraction: A Hierarchical Rule Optimization Framework for Document-Level Event Argument Extraction](https://aclanthology.org/2025.findings-emnlp.1154/)**  
-  Yue Zuo, Yuxiao Fei, **Wanting Ning**, Jiayi Huang, Yubo Feng, Lishuang Li.  
-  *Findings of the Association for Computational Linguistics: EMNLP 2025*, 21155--21171.  
-  [[Paper](https://aclanthology.org/2025.findings-emnlp.1154/)] [[PDF](https://aclanthology.org/2025.findings-emnlp.1154.pdf)] [[DOI](https://doi.org/10.18653/v1/2025.findings-emnlp.1154)]
 
 - **[ProBioRE: A Framework for Biomedical Causal Relation Extraction Based on Dual-head Prompt and Prototypical Network](https://ieeexplore.ieee.org/document/10385919)**  
   Lishuang Li, **Wanting Ning**.  
