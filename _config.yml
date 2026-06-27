@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Wanting Ning (宁婉廷)"
   avatar           : "images/profile_square.jpg"
-  bio              : "Ph.D. student in Indiana University Indianapolis"
-  location         : "Indiana, the United States"
+  bio              : "Ph.D. Student in Computer Science, Indiana University Indianapolis"
+  location         : "Indianapolis, IN, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=3jYEgtAAAAAJ"
