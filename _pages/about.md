@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Wanting Ning | CS Ph.D. Student | NLP & LLM Evaluation"
+excerpt: "Wanting Ning is a CS Ph.D. student at Indiana University Indianapolis working on NLP, LLM evaluation, figurative language understanding, long-context reasoning, human-centered NLP, and model interpretability."
 author_profile: true
 redirect_from: 
   - /about/
