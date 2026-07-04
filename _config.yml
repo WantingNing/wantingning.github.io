@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Wanting Ning"
-description              : "Wanting Ning is a CS Ph.D. student at Indiana University Indianapolis working on NLP, LLM evaluation, figurative language understanding, long-context reasoning, human-centered NLP, and model interpretability."
+description              : # "Wanting Ning is a CS Ph.D. student at Indiana University Indianapolis working on NLP, LLM evaluation, figurative language understanding, long-context reasoning, human-centered NLP, and model interpretability."
 url                      : "https://wantingning.github.io"
 baseurl                  : ""
 repository               : "WantingNing/wantingning.github.io"
@@ -29,12 +29,12 @@ author:
   avatar           : "images/profile_square.jpg"
   bio              : "Ph.D. Student in Computer Science, Indiana University Indianapolis"
   location         : "Indianapolis, IN, USA"
-  employer         : "Indiana University Indianapolis"
+  employer         : # "Indiana University Indianapolis"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=3jYEgtAAAAAJ"
   email            : "ningw@iu.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://wantingning.github.io"
+  uri              : # "https://wantingning.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
