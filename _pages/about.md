@@ -25,7 +25,7 @@ I study how large language models process nuanced human communication, including
 
 
 # 🔥 News
-- *2026.06*: &nbsp;🎉 Our paper **"[A Mirage of Coherence: How Metaphor Impacts Language Models’ Discourse Coherence Assessment]"** has been accepted to **COLM 2026**!
+- *2026.06*: &nbsp;🎉 Our paper **"A Mirage of Coherence: How Metaphor Impacts Language Models’ Discourse Coherence Assessment"** has been accepted to **COLM 2026**!
 
 
 # 📝 Publications
