@@ -17,18 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year Ph.D. student in Computer Science at Indiana University Indianapolis, advised by Prof. Hyeju Jang. My research focuses on NLP and LLM evaluation, especially **figurative language understanding, long-context reasoning, human-centered NLP, and model interpretability**.
+I am a first-year Ph.D. student in Computer Science at Indiana University Indianapolis, advised by [**Prof. Hyeju Jang**](https://hyejuj.github.io/). My research focuses on NLP and LLM evaluation, especially **figurative language understanding, long-context reasoning, human-centered NLP, and model interpretability**.
 
 I study how large language models process nuanced human communication, including metaphor, implicit meaning, discourse-level context, and counseling-style dialogue. More broadly, I am interested in building reliable evaluation frameworks for understanding model behavior in complex and sensitive language settings.
 
 **Research interests:** LLM Evaluation · Human-Centered NLP · Figurative Language Understanding · Long-Context Reasoning · Model Interpretability
 
 
-<!--
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
--->
+- *2026.06*: &nbsp;🎉 Our paper **"[A Mirage of Coherence: How Metaphor Impacts Language Models’ Discourse Coherence Assessment]"** has been accepted to **COLM 2026**!
+
 
 # 📝 Publications
 
@@ -67,6 +65,12 @@ For a complete and up-to-date list, please see my [Google Scholar](https://schol
 
 * **Metaphor-Based LLM Interpretability**
   Exploring metaphor as a lens for studying how language models represent abstract meaning and perform figurative reasoning.
+
+## LLM Evaluation and Human-Centered NLP
+
+- **A Mirage of Coherence: How Metaphor Impacts Language Models’ Discourse Coherence Assessment**  
+  **Wanting Ning**, Brian Choi, Eun Jin Paek, Hyeju Jang.  
+  *Conference on Language Modeling (COLM) 2026*, to appear.
 
 ## Biomedical NLP and Information Extraction
 
