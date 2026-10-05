@@ -17,11 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year Ph.D. student in Computer Science at Indiana University Indianapolis, advised by [**Prof. Hyeju Jang**](https://hyejuj.github.io/). My research focuses on NLP and LLM evaluation, especially **figurative language understanding, long-context reasoning, human-centered NLP, and model interpretability**.
+I am a second-year Ph.D. student in Computer Science at Indiana University Indianapolis, advised by [**Prof. Hyeju Jang**](https://hyejuj.github.io/). My research focuses on the **reliability of language understanding in large language models**. I study when models’ judgments and responses reflect the meaning of a text, and when they are sensitive to how that meaning is expressed. My recent work examines this question through metaphor and discourse coherence. In ongoing work, I investigate how models preserve uncertainty in language and use representation analysis to explore the internal processes underlying their behavior.
 
-I study how large language models process nuanced human communication, including metaphor, implicit meaning, discourse-level context, and counseling-style dialogue. More broadly, I am interested in building reliable evaluation frameworks for understanding model behavior in complex and sensitive language settings.
-
-**Research interests:** LLM Evaluation · Human-Centered NLP · Figurative Language Understanding · Long-Context Reasoning · Model Interpretability
+🔍 I am seeking **research internship opportunities for Summer 2027** in LLM evaluation, reliability, and interpretability.
 
 
 # 🔥 News
@@ -49,46 +47,27 @@ Example of the disabled template:
 </div>
 -->
 
-My previous publications focus on biomedical NLP and information extraction, including event temporal relation extraction, biomedical causal relation extraction, biomedical event detection, and document-level event extraction.
-
-My current Ph.D. research extends this background toward LLM evaluation and human-centered NLP, with a focus on figurative language understanding, discourse-level reasoning, counseling-style dialogue, and interpretability.
-
-For a complete and up-to-date list, please see my [Google Scholar](https://scholar.google.com/citations?hl=en&tzom=240&user=3jYEgtAAAAAJ).
-
-## Current Research
-
-* **LLM Metaphor Understanding and Discourse Evaluation**
-  Studying how metaphor affects LLM judgments of discourse coherence and reveals model limitations in nuanced language understanding.
-
-* **Metaphor in Counseling Conversations**
-  Analyzing metaphor use in counseling-style dialogue to understand how language models handle emotionally rich and implicit communication.
-
-* **Metaphor-Based LLM Interpretability**
-  Exploring metaphor as a lens for studying how language models represent abstract meaning and perform figurative reasoning.
-
-## LLM Evaluation and Human-Centered NLP
+For a complete list of publications, please see my [Google Scholar](https://scholar.google.com/citations?hl=en&tzom=240&user=3jYEgtAAAAAJ).
 
 - **A Mirage of Coherence: How Metaphor Impacts Language Models’ Discourse Coherence Assessment**  
   **Wanting Ning**, Brian Choi, Eun Jin Paek, Hyeju Jang.  
-  *Conference on Language Modeling (COLM) 2026*, to appear.
-
-## Biomedical NLP and Information Extraction
-
-- **[Temporal Cognitive Tree: A Hierarchical Modeling Approach for Event Temporal Relation Extraction](https://aclanthology.org/2024.findings-emnlp.47/)**  
-  **Wanting Ning**, Lishuang Li, Xueyang Qin, Yubo Feng, Jingyao Tang.  
-  *Findings of the Association for Computational Linguistics: EMNLP 2024*, 855--864.  
-  [[Paper](https://aclanthology.org/2024.findings-emnlp.47/)] [[PDF](https://aclanthology.org/2024.findings-emnlp.47.pdf)] [[DOI](https://doi.org/10.18653/v1/2024.findings-emnlp.47)]
+  *Conference on Language Modeling (COLM), 2026*. **Spotlight Oral**.
 
 - **[GDLLM: A Global Distance-aware Modeling Approach Based on Large Language Models for Event Temporal Relation Extraction](https://aclanthology.org/2025.findings-emnlp.428/)**  
   Jie Zhao, **Wanting Ning**, Yuxiao Fei, Yubo Feng, Lishuang Li.  
-  *Findings of the Association for Computational Linguistics: EMNLP 2025*, 8080--8091.  
+  *Findings of the Association for Computational Linguistics: EMNLP 2025*, 8080–8091.  
   [[Paper](https://aclanthology.org/2025.findings-emnlp.428/)] [[PDF](https://aclanthology.org/2025.findings-emnlp.428.pdf)] [[DOI](https://doi.org/10.18653/v1/2025.findings-emnlp.428)]
+
+- **[Temporal Cognitive Tree: A Hierarchical Modeling Approach for Event Temporal Relation Extraction](https://aclanthology.org/2024.findings-emnlp.47/)**  
+  **Wanting Ning**, Lishuang Li, Xueyang Qin, Yubo Feng, Jingyao Tang.  
+  *Findings of the Association for Computational Linguistics: EMNLP 2024*, 855–864.  
+  [[Paper](https://aclanthology.org/2024.findings-emnlp.47/)] [[PDF](https://aclanthology.org/2024.findings-emnlp.47.pdf)] [[DOI](https://doi.org/10.18653/v1/2024.findings-emnlp.47)]
 
 - **[ProBioRE: A Framework for Biomedical Causal Relation Extraction Based on Dual-head Prompt and Prototypical Network](https://ieeexplore.ieee.org/document/10385919)**  
   Lishuang Li, **Wanting Ning**.  
-  *2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 2071--2074.  
+  *2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 2071–2074.  
   [[Paper](https://ieeexplore.ieee.org/document/10385919)] [[DOI](https://doi.org/10.1109/BIBM58861.2023.10385919)]
-
+  
 <!--
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
