@@ -23,7 +23,7 @@ I am a second-year Ph.D. student in Computer Science at Indiana University India
 
 
 # 🔥 News
-- *2026.06*: &nbsp;🎉 Our paper **"A Mirage of Coherence: How Metaphor Impacts Language Models’ Discourse Coherence Assessment"** has been accepted to **COLM 2026**!
+- *2026.06*: &nbsp;🎉 Our paper **"A Mirage of Coherence: How Metaphor Impacts Language Models’ Discourse Coherence Assessment"** has been accepted to **COLM 2026** and selected for an **Oral Spotlight Presentation**!
 
 
 # 📝 Publications
