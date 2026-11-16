@@ -15,43 +15,34 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+
+
 <span class='anchor' id='about-me'></span>
 
-I am a second-year Ph.D. student in Computer Science at Indiana University Indianapolis, advised by [**Prof. Hyeju Jang**](https://hyejuj.github.io/). My research focuses on the **reliability of language understanding in large language models**. I study when models’ judgments and responses reflect the meaning of a text, and when they are sensitive to how that meaning is expressed. My recent work examines this question through metaphor and discourse coherence. In ongoing work, I investigate how models preserve uncertainty in language and use representation analysis to explore the internal processes underlying their behavior.
+I am a second-year Ph.D. student in Computer Science at Indiana University Indianapolis, advised by [**Prof. Hyeju Jang**](https://hyejuj.github.io/).
 
-🔍 I am seeking **research internship opportunities for Summer 2027** in LLM evaluation, reliability, and interpretability.
+My research interests lie in **LLM evaluation, reliability, and alignment**. I am interested in how language models understand and respond to human language, when their behavior reflects the intended meaning, and what causes failures. Through behavioral evaluation and representation-level analysis, I aim to better understand the capabilities and limitations of language models and contribute to building more reliable and aligned AI systems.
 
+🔍 I am seeking **research internship opportunities for Summer 2027** in LLM evaluation, reliability, alignment, and interpretability.
 
 # 🔥 News
-- *2026.06*: &nbsp;🎉 Our paper **"A Mirage of Coherence: How Metaphor Impacts Language Models’ Discourse Coherence Assessment"** has been accepted to **COLM 2026** and selected for an **Oral Spotlight Presentation**!
 
+- *2026.11*: &nbsp;🎉 Our paper **"When Discourse Parsers Are Uncertain"** has been accepted to **EACL 2027 Main Conference**!
+- *2026.10*: &nbsp;🎤 Presented our [COLM 2026 paper](https://proceedings.colm.cc/paper_files/paper/2026/hash/112bfcff816203efbb986bc178380ef2-Abstract-Conference.html) as a **Spotlight Oral** in San Francisco!
+- *2026.06*: &nbsp;🎉 Our paper **"A Mirage of Coherence"** has been accepted to **COLM 2026** and selected for a **Spotlight Oral Presentation**!
 
 # 📝 Publications
 
-<!--
-The original image-based paper-box template is disabled for now because I am not using publication images.
-
-Example of the disabled template:
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Venue Year</div><img src='images/500x300.png' alt="paper image" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Paper Title](paper_link)
-
-**Author A**, Author B, Author C
-
-[**Paper**](paper_link)
-- Short description.
-
-</div>
-</div>
--->
-
 For a complete list of publications, please see my [Google Scholar](https://scholar.google.com/citations?hl=en&tzom=240&user=3jYEgtAAAAAJ).
 
-- **A Mirage of Coherence: How Metaphor Impacts Language Models’ Discourse Coherence Assessment**  
+- **When Discourse Parsers Are Uncertain: Parser Confidence as a Diagnostic Signal for Coherence Assessment**  
+  **Wanting Ning**, Pratiksha Dadabhau Mandale, Sneha Yadav, Young Hwan You, Hyeju Jang.  
+  *European Chapter of the Association for Computational Linguistics (EACL), 2027*. **Main Conference (Accepted)**.
+
+- **[A Mirage of Coherence: How Metaphor Impacts Language Models' Discourse Coherence Assessment](https://proceedings.colm.cc/paper_files/paper/2026/hash/112bfcff816203efbb986bc178380ef2-Abstract-Conference.html)**  
   **Wanting Ning**, Brian Choi, Eun Jin Paek, Hyeju Jang.  
-  *Conference on Language Modeling (COLM), 2026*. **Spotlight Oral**.
+  *Conference on Language Modeling (COLM), 2026*. **Spotlight Oral**.  
+  [[Paper](https://proceedings.colm.cc/paper_files/paper/2026/hash/112bfcff816203efbb986bc178380ef2-Abstract-Conference.html)] [[PDF](https://proceedings.colm.cc/paper_files/paper/2026/file/112bfcff816203efbb986bc178380ef2-Paper-Conference.pdf)] [[OpenReview](https://openreview.net/forum?id=4D1uRiMoEY)]
 
 - **[GDLLM: A Global Distance-aware Modeling Approach Based on Large Language Models for Event Temporal Relation Extraction](https://aclanthology.org/2025.findings-emnlp.428/)**  
   Jie Zhao, **Wanting Ning**, Yuxiao Fei, Yubo Feng, Lishuang Li.  
